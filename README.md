@@ -1,6 +1,6 @@
 # AppCalculadora
 
-##Descripción del Proyecto
+## Descripción del Proyecto
 
 Calculadora es una aplicación de una calculadora que tendrá los usos se una calculadora común.
 
